@@ -1,1 +1,1 @@
-# Bulk-emails-and-SMS-SPAT-
+# Bulk-Emails-and-SMS
